@@ -11,3 +11,11 @@
 3. Application of certain classification algorithms to see which one can do the job most accurately
 
 <h3>Example of dataset samples after pre-processing </h3>
+For information on the characteristics of the dataset please refer to the link at the top of the page
+
+![exampledataser](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/esempio%20dataset.png)
+
+<h3>EDA (Exploratory Data Analysis)</h3>
+<br>the output shows the type of failure and its absolute frequency. A quick glance at the table below immediately shows that the number of failures detected is extremely low compared to the cases labelled 'No Failure'.
+
+![frequency](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/frequency.png)
