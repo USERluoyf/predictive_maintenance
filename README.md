@@ -47,7 +47,7 @@ An imbalance was found in the dataset as the number of machine failures were fou
 <h3>Comparison of different configurations and solutions</h3>
 The parameters used to evaluate the model are accuracy and total running time, although the latter turns out to be quite irrelevant for ranking them. As can be seen from the image below, all the algorithms applied to the designated model turn out to have a more than remarkable accuracy, being for all of them between 96% and 98%. What varies considerably however is the execution time, ranging from the order of thousandths of a second for Naive Bayes to almost 10 seconds for the Multi Layer Perceptron. In retrospective, another parameter we could have used is recall since it tells more useful informations about the classification model rather than running time (and perhaps accuracy).
 
-![results](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/results.png)
+![results](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/results.png)
 
 The 'XGB Classifier' algorithm returned an accuracy of 98% and an execution time of 0.4/0.5 s. For a more in-depth study, XGB data on the classification of records on the target attribute (precision, recall, f-1 score and support).
 
