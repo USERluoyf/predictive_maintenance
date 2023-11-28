@@ -51,4 +51,4 @@ The parameters used to evaluate the model are accuracy and total running time, a
 
 The 'XGB Classifier' algorithm returned an accuracy of 98% and an execution time of 0.4/0.5 s. For a more in-depth study, XGB data on the classification of records on the target attribute (precision, recall, f-1 score and support).
 
-![xgb](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/xgb.png)
+![xgb](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/xgb.png)
