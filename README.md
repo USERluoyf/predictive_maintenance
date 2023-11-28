@@ -6,12 +6,12 @@
 <br>The version of the dataset we used can be found in this github repository under the name "predictive_mainteniance.csv".
 
 <br><h3>🎯 Objectives:</h3>
-1. Refinement and pre-processing of the dataset used, so as to keep the data useful for the purpose and discard everything else.
-2. Exploratory Data Analysis (EDA), i.e. an in-depth study of the dataset aimed at discovering its main characteristics and searching for possible patterns, using statistical analysis tools
-3. Application of certain classification algorithms to see which one can do the job most accurately
+1. Refinement and pre-processing of the dataset used in order to keep the useful data for our purpose and discard everything else;
+2. Exploratory Data Analysis (EDA), an in-depth study of the dataset aimed at discovering its main characteristics and searching for possible patterns, using statistical analysis tools;
+3. Application of certain classification algorithms to see which one can do the job most accurately.
 
 <h3>Example of dataset samples after pre-processing </h3>
-For information on the characteristics of the dataset please refer to the link at the top of the page
+For informations on the characteristics of the dataset please refer to the link at the top of the page.
 
 ![exampledataser](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/esempio%20dataset.png)
 
