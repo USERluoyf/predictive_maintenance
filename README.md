@@ -1,5 +1,5 @@
 # 📊 predictive_maintenance 🛠️
-<h2>This is a project as part of the Artificial Intelligence course of the degree in computer science for management at the university of bologna</h2>
+<h2>This is a project for the Artificial Intelligence course part of the Master Degree in Computer Science at the University of Bologna</h2>
 <br>Specific analysis of the data collected by the sensors for the development of a Machine Learning application, which exploits the correlations discovered in the data set to provide a sufficiently valid and correct prediction regarding a probable failure of a machine.
 <br>Dataset used: “AI4I Predictive Maintenance Dataset”
 <br>Lnk: https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
