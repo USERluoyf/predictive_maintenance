@@ -16,18 +16,18 @@ For informations on the characteristics of the dataset please refer to the link 
 ![exampledataser](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/esempio%20dataset.png)
 
 <h3>EDA (Exploratory Data Analysis)</h3>
-The output shows the type of failure and its absolute frequency. A quick glance at the table below immediately shows that the number of failures detected is extremely low compared to the cases labelled 'No Failure'.
+The output shows the type of failure and its absolute frequency. A quick glance at the table below immediately shows that the number of failures detected is extremely low compared to the cases labelled as "No Failure".
 
 ![frequency](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/frequenza.png)
 
-<h3>Correlation matricesg </h3>
-In the first figure, we can observe the correlation between the various features, while in the second the correlation between the various types of failure. Analysing them, we can see, for example, a significant positive correlation of 0.88 between air temperature and process temperature, while there is a significant negative correlation of -0.88 between rotation speed and torque.
+<h3>Correlation matrixes </h3>
+In the first picture, we can observe the correlation between the various features, while in the second one the correlation between the various types of failure. Analysing them, we can see for example a significant positive correlation of 0.88 between air temperature and process temperature, while there is a significant negative correlation of -0.88 between rotation speed and torque.
 
 ![correlation](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/correlazione1.png)
 ![correlation](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/correlazione2.png)
 
 <h3>Data visualization </h3>
-An imbalance was found in the dataset, as the number of machine failures was found to be 3.39%.
+An imbalance was found in the dataset as the number of machine failures were found to be 3.39%.
 
 ![sbilanciamento](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/sbilanciamento.png)
 ![failures](https://github.com/michele-abruzzese/predictive_maintenance/blob/main/img/fallimenti.png)
